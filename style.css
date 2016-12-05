@@ -1,0 +1,24 @@
+body{
+  font-family: verdana, sans-serif;
+  color: #b7b7b7;
+  background-color: #1c1c1c;
+}
+#result{
+  border: 2px solid red; 
+}
+#fullmessage{
+  border: 1px solid yellow;
+}
+
+.message{
+  border: 1px dashed blue; 
+  margin: 20px;
+  padding: 20px;
+  cursor: pointer;
+}
+.unread{
+  color: cyan;
+  font-weight: bold;
+  border: 1px dashed cyan; 
+  
+}
